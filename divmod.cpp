@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-    int a = 17;  // Dividendo
-    int b = 5;   // Divisor
+    int a = 17;  
+    int b = 5;   
 
     // Operación de división
     int resultado_division = a / b; // Resultado de 17 dividido por 5
